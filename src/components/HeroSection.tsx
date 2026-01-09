@@ -20,7 +20,7 @@ const HeroSection = () => {
         </h1>
         
         <h2 className="text-3xl md:text-5xl lg:text-6xl font-bold text-muted-foreground mb-6 animate-fade-in" style={{ animationDelay: "0.2s" }}>
-          I build things for the web & mobile.
+          I build projects for the web & mobile.
         </h2>
         
         <p className="text-muted-foreground max-w-xl text-base md:text-lg mb-10 animate-fade-in" style={{ animationDelay: "0.3s" }}>
