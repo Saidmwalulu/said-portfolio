@@ -1,4 +1,4 @@
-import { ExternalLink, Smartphone, Server } from "lucide-react";
+import { Smartphone, Server } from "lucide-react";
 
 const projects = [
   {
